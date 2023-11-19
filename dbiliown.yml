@@ -1,0 +1,4 @@
+endpoints:
+  archive_search: https://api.bilibili.com/x/space/wbi/arc/search
+watch:
+  uids: [12522755]
